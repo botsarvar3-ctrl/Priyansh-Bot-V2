@@ -151,7 +151,7 @@ if ([
     return api.sendMessage("Main theek hoon, aap kaise hain? Umeed karta hoon ke aap ka din acha guzray ga.", threadID);
   }
   if ((event.body.toLowerCase() == "morning") || (event.body.toLowerCase() == "good morning")) {
-    return api.sendMessage("Good Morning! 🌞 Jai shree Ram💫💕💪🌻☕✨", threadID);
+    return api.sendMessage("Good Morning! 🌞💫💕💪🌻☕✨", threadID);
 }
    if ((event.body.toLowerCase() == "morning") || (event.body.toLowerCase() == "good morning")) {
      return api.sendMessage("Ꮆɵɵɗ Ɱ❍ɽƞɪɪƞɠ Ɛⱱɛɽɣ❍ƞɛ🌅, Ƭɽɣ ꌗɵɱɛ Cɵffɛɛ ❍ɽ Ƭɛɑ Ƭ❍ Ꮗɑҡɛ Uƥ☕✨💫", threadID);
@@ -161,18 +161,18 @@ if ([
      return api.sendMessage("Main Hun Naw Jaaneman ❤️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Rahul") || (event.body.toLowerCase() == "Rahul singh") || (event.body.toLowerCase()priyansh") || (event.body.toLowerCase() == "prince")) {
+   if ((event.body.toLowerCase() == "priyansh") || (event.body.toLowerCase() == "priyansh rajput") || (event.body.toLowerCase() == "priyansh") || (event.body.toLowerCase() == "prince")) {
      return api.sendMessage( "Busy HoGa Work Me Main t0o Hun Naw 😘",threadID);
 
        
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
-     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞꧁*➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀⚔️⍤⃝𝐑𝐀̶𝆺𝅥⃝𝐇𝐔𝐋😌🌺꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 🅡A🅗U🅛 😈😘🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/ve.ified.j.649774 \n👋For Any Kind Of Help Contact On Telegram  Username 👉 @Rahul singh😇", threadID);
+     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞꧁𝐑𝐀𝐇𝐔𝐋 𝐒𝐈𝐍𝐆𝐇꧂☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝗥𝗔𝗛𝗨𝗟🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞https://www.facebook.com/ve.ified.j.649774 \n👋For Any Kind Of Help Contact On Telegram  Username 👉 @Rahul😇", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
-     return api.sendMessage("*➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀⚔️⍤⃝𝐑𝐀̶𝆺𝅥⃝𝐇𝐔𝐋😌🌺  ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Ladkaye Mat Rakkha Karo. Har Waqt Haste Raho.", threadID);
+     return api.sendMessage("Rahul singh ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Ladkaye Mat Rakkha Karo. Har Waqt Haste Raho.", threadID);
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon ha")) {
@@ -877,7 +877,7 @@ if ((event.body.toLowerCase() == "🥑")) {
 
 ༆ 𝑾𝒐𝒓𝒅𝒔 𝒕𝒉𝒂𝒕 𝒕𝒐𝒖𝒄𝒉 𝒉𝒆𝒂𝒓𝒕𝒔... ☁️
 
-*➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀⚔️⍤⃝𝐑𝐀̶𝆺𝅥⃝𝐇𝐔𝐋😌🌺`
+⟬  𝐑𝐀𝐇𝐔𝐋_𝐒𝐈𝐍𝐆𝐇 ⟭`
 };
 
 return api.sendMessage(msg, threadID, messageID);
